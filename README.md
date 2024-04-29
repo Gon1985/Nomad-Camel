@@ -1,9 +1,7 @@
 # Nomad-Camel
 Versatile notepad app with various features
 ********************************************
-Welcome to "Nomad Camel" – your versatile notepad application designed to streamline your text editing experience. With "Nomad Camel," you can effortlessly create, customize, and manage text documents with ease. From adjusting font styles and sizes to encrypting sensitive information, this feature-rich application empowers you to tailor your writing environment to suit your needs. Whether you're jotting down notes, drafting documents, or encrypting messages, "Nomad Camel" provides the tools you need to stay organized and productive. 
-
-Here's a detailed description of the functionalities of your program:
+Welcome to Nomad Camel – your versatile notepad application designed to streamline your text editing experience. With Nomad Camel you can effortlessly create, customize, and manage text documents with ease. From adjusting font styles and sizes to encrypting sensitive information, this feature-rich application empowers you to tailor your writing environment to suit your needs. Whether you're jotting down notes, drafting documents, or encrypting messages, "Nomad Camel" provides the tools you need to stay organized and productive. 
 
 Resizable Text Box:
 
