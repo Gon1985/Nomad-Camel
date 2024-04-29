@@ -3,6 +3,24 @@ Versatile notepad app with various features
 ********************************************
 Welcome to Nomad Camel – your versatile notepad application designed to streamline your text editing experience. With Nomad Camel you can effortlessly create, customize, and manage text documents with ease. From adjusting font styles and sizes to encrypting sensitive information, this feature-rich application empowers you to tailor your writing environment to suit your needs. Whether you're jotting down notes, drafting documents, or encrypting messages, "Nomad Camel" provides the tools you need to stay organized and productive. 
 
+
+Nomad Camel uses and saves files in ".NC" format
+please read this!!! =)
+-------------------------------------------------------------------------------------------------------------
+## Set Custom File Association on Windows !
+
+To associate ".NC" files with Nomad Camel, follow these steps:
+
+1. Download the `custom_file_association.reg` file from the GitHub repository.
+2. Navigate to the location where you downloaded the file.
+3. Double-click the `custom_file_association.reg` file to run it.
+4. A confirmation window will open, click "Yes" or "OK" to confirm the changes to the Windows registry.
+5. The custom file association will be set, and you'll be able to open ".NC" files by double-clicking them.
+-------------------------------------------------------------------------------------------------------------
+
+Nomad Camel / Features
+
+
 Resizable Text Box:
 
     Provides a resizable text box where users can input and format text.
