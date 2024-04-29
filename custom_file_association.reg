@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\.NC]
+@="NCfile"
+
+[HKEY_CLASSES_ROOT\NCfile]
+@="Archivo NC"
+
+[HKEY_CLASSES_ROOT\NCfile\DefaultIcon]
+@="Ruta\\al\\icono\\de\\tu\\programa.ico"
+
+[HKEY_CLASSES_ROOT\NCfile\shell]
+@="open"
+
+[HKEY_CLASSES_ROOT\NCfile\shell\open]
+@="Abrir"
+
+[HKEY_CLASSES_ROOT\NCfile\shell\open\command]
+@="\"Ruta\\al\\tuprograma.exe\" \"%1\""
