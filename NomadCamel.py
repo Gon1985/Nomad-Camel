@@ -424,19 +424,16 @@ class NotepadApp:
         encrypted_text_widget.pack(expand=True, fill="both")
 
     def decrypt_text(self):
-        
         encrypted_text = self.text.get("1.0", "end-1c")
 
-        
         if not encrypted_text.strip():
             messagebox.showwarning("Warning", "There is no encrypted text to decrypt.")
             return
 
-        
-        decrypted_text = self.cesar_cipher(encrypted_text, shift=-3) 
+        decrypted_text = self.cesar_cipher(encrypted_text, shift=-3)
 
-        
-        self.show_decrypted_text(decrypted_text)
+        self.show_encrypted_text(decrypted_text)
+
 
     def show_encrypted_text(self, encrypted_text):
         
